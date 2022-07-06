@@ -150,7 +150,7 @@
 		<com.google.guava.version>18.0</com.google.guava.version>        <!-- updated from r09 for cassandra -->
 		<commons.cli.version>1.2</commons.cli.version>
 		<joda.time.version>2.4</joda.time.version>
-		<jsch.version>0.1.29</jsch.version>
+		<jsch.version>0.1.54</jsch.version>
 		<commons.codec.version>1.9</commons.codec.version>
 		<commons.collections.version>3.2.2</commons.collections.version>
 		<commons.lang.version>3.1</commons.lang.version>
